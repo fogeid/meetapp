@@ -1,14 +1,14 @@
 <h1 align="center">
     <img alt="Go Stack logo" src="https://github.com/douglasporto/meetapp-gostack/blob/master/assets/logo-gostack.png" />
     <br>
-    MEETAPP challenge
+    MeetApp Challenge
 </h1>
 
 <h4 align="center">
   A challenge for [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) Certificate
 </h4>
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/douglasporto/meetapp-gostack.svg">
+  /*<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/douglasporto/meetapp-gostack.svg">
 
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/douglasporto/meetapp-gostack.svg">
 
@@ -24,7 +24,7 @@
     <img alt="Repository issues" src="https://img.shields.io/github/issues/douglasporto/meetapp-gostack.svg">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/douglasporto/meetapp-gostack.svg">
+  <img alt="GitHub" src="https://img.shields.io/github/license/douglasporto/meetapp-gostack.svg">*/
 </p>
 
 <p align="center">
@@ -33,8 +33,8 @@
   <a href="#memo-license">License</a>
 </p>
 
-![App Screenshot](https://github.com/douglasporto/meetapp-gostack/blob/master/assets/screenshot.png)
-![App Screenshot](https://github.com/douglasporto/meetapp-gostack/blob/master/assets/screenshot2.png)
+/*![App Screenshot](https://github.com/douglasporto/meetapp-gostack/blob/master/assets/screenshot.png)
+![App Screenshot](https://github.com/douglasporto/meetapp-gostack/blob/master/assets/screenshot2.png)*/
 
 ## :rocket: Technologies
 
@@ -102,7 +102,7 @@ This project was developed to get the [RocketSeat GoStack Bootcamp](https://rock
 
 ## :information_source: How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.15][nodejs] or higher + [Yarn v1.5][yarn] or higher installed on your computer and the [First React Project](https://github.com/douglasporto/meetapp-gostack). From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.15][nodejs] or higher + [Yarn v1.5][yarn] or higher installed on your computer and the [First React Project](https://github.com/fogeid/meetapp). From your command line:
 
 ### Install API
 ```bash
@@ -164,8 +164,6 @@ $ yarn start
 This project is under the MIT license. See the [LICENSE](https://github.com/douglasporto/meetapp-gostack/blob/master/LICENSE) for more information.
 
 ---
-
-Made with ♥ by Douglas Porto :wave: [Get in touch!](https://www.linkedin.com/in/douglas-porto/)
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
