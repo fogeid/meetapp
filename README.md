@@ -7,26 +7,6 @@
 <h4 align="center">
   A challenge for [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) Certificate
 </h4>
-<!-- <p align="center">
-  <!-- <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/douglasporto/meetapp-gostack.svg">
-
-  <!--<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/douglasporto/meetapp-gostack.svg">
-
-  <!--<a href="https://www.codacy.com/app/douglasporto/meetapp-gostack?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=douglasporto/meetapp-gostack&amp;utm_campaign=Badge_Grade">
-  <img src="https://api.codacy.com/project/badge/Grade/dfc7b01a340941ab9bbe582f9a86e908"/></a>
-
-  <!--<img alt="Repository size" src="https://img.shields.io/github/repo-size/douglasporto/meetapp-gostack.svg">
-  <a href="https://github.com/douglasporto/meetapp-gostack/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/douglasporto/meetapp-gostack.svg">
-  </a>
-
-  <!--<a href="https://github.com/douglasporto/meetapp-gostack/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/douglasporto/meetapp-gostack.svg">
-  </a>
-
-  <!--<img alt="GitHub" src="https://img.shields.io/github/license/douglasporto/meetapp-gostack.svg">
-</p>
-
 <p align="center">
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
