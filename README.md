@@ -7,7 +7,7 @@
 <h4 align="center">
   A challenge for [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) Certificate
 </h4>
-<p align="center">
+<!-- <p align="center">
   <!-- <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/douglasporto/meetapp-gostack.svg">
 
   <!--<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/douglasporto/meetapp-gostack.svg">
