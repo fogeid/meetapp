@@ -8,23 +8,23 @@
   A challenge for [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) Certificate
 </h4>
 <p align="center">
-  /*<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/douglasporto/meetapp-gostack.svg">
+  <!-- <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/douglasporto/meetapp-gostack.svg">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/douglasporto/meetapp-gostack.svg">
+  <!--<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/douglasporto/meetapp-gostack.svg">
 
-  <a href="https://www.codacy.com/app/douglasporto/meetapp-gostack?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=douglasporto/meetapp-gostack&amp;utm_campaign=Badge_Grade">
+  <!--<a href="https://www.codacy.com/app/douglasporto/meetapp-gostack?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=douglasporto/meetapp-gostack&amp;utm_campaign=Badge_Grade">
   <img src="https://api.codacy.com/project/badge/Grade/dfc7b01a340941ab9bbe582f9a86e908"/></a>
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/douglasporto/meetapp-gostack.svg">
+  <!--<img alt="Repository size" src="https://img.shields.io/github/repo-size/douglasporto/meetapp-gostack.svg">
   <a href="https://github.com/douglasporto/meetapp-gostack/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/douglasporto/meetapp-gostack.svg">
   </a>
 
-  <a href="https://github.com/douglasporto/meetapp-gostack/issues">
+  <!--<a href="https://github.com/douglasporto/meetapp-gostack/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/douglasporto/meetapp-gostack.svg">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/douglasporto/meetapp-gostack.svg">*/
+  <!--<img alt="GitHub" src="https://img.shields.io/github/license/douglasporto/meetapp-gostack.svg">
 </p>
 
 <p align="center">
@@ -33,8 +33,8 @@
   <a href="#memo-license">License</a>
 </p>
 
-/*![App Screenshot](https://github.com/douglasporto/meetapp-gostack/blob/master/assets/screenshot.png)
-![App Screenshot](https://github.com/douglasporto/meetapp-gostack/blob/master/assets/screenshot2.png)*/
+<!-- ![App Screenshot](https://github.com/douglasporto/meetapp-gostack/blob/master/assets/screenshot.png)
+![App Screenshot](https://github.com/douglasporto/meetapp-gostack/blob/master/assets/screenshot2.png)
 
 ## :rocket: Technologies
 
@@ -107,7 +107,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 ### Install API
 ```bash
 # Clone this repository
-$ git clone https://github.com/douglasporto/meetapp-gostack
+$ git clone https://github.com/fogeid/meetapp
 
 # Go into the repository
 $ cd meetapp-gostack/api
@@ -161,7 +161,7 @@ $ yarn start
 ```
 
 ## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/douglasporto/meetapp-gostack/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/fogeid/meetapp/blob/master/LICENSE) for more information.
 
 ---
 
