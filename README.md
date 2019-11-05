@@ -13,9 +13,6 @@
   <a href="#memo-license">License</a>
 </p>
 
-<!-- ![App Screenshot](https://github.com/douglasporto/meetapp-gostack/blob/master/assets/screenshot.png)
-![App Screenshot](https://github.com/douglasporto/meetapp-gostack/blob/master/assets/screenshot2.png)
-
 ## :rocket: Technologies
 
 This project was developed to get the [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp) certificate with the following technologies:
